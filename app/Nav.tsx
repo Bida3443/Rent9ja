@@ -8,6 +8,9 @@ export default function Nav () {
             <div>fffff</div>
             <div>ffffff</div>
             <div>ffffff</div>
+            <div>ffffff</div>
+            <div>ffffff</div>
+            <div>ffffff</div>
         </div>
     </nav>
   )
