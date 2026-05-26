@@ -21,7 +21,7 @@ export default function Nav() {
    
   return (
 
-    <nav className='bg-[#09200D] py-6 px-10 sticky top-0 h-auto'>
+    <nav className='bg-[#09200D] py-6 px-10 sticky top-0 h-auto border z-20 border-b-[#8B8B8B]'>
       <div className='flex justify-between items-center text-white'>
         
         <a href="/"><h1 className='text-2xl font-extrabold tracking-tight'><span className='text-[#C9F967]'>Rent</span>9ja</h1></a>
