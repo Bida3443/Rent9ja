@@ -9,7 +9,7 @@ export default function Hero() {
 
                         {/* Ping animation */}
                         <span className="absolute inline-flex h-full w-full rounded-full bg-[#C9F967] opacity-75 animate-ping"></span>
-
+                        
                         {/* Solid dot */}
                         <span className="relative inline-flex h-3 w-3 rounded-full bg-[#C9F967]"></span>
 
@@ -50,7 +50,7 @@ export default function Hero() {
 
                     </a>
                    
-                    <a href='' className=' py-4 px-8 text-[14px] inline-flex items-center gap-2 border border-white/20 text-[#EFECE2] bg-[#09200D] rounded-full'>Find a home</a>
+                    <a href='' className=' py-4 px-8 text-[14px] inline-flex items-center gap-2 border border-white/20 text-[#EFECE2] bg-[#09200D] hover:bg-white/2 transition-all duration-300  rounded-full'>Find a home</a>
                 </div>
 
                 <div className="w-full mt-10 bg-[#001f0a] py-6 px-4 overflow-hidden">
