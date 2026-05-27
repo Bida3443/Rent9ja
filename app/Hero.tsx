@@ -18,7 +18,7 @@ export default function Hero() {
                     <span className="text-[#EFECE2]">BUILT FOR NIGERIA</span>
 
                 </div>
-            
+
 
                 <div className="mt-8 flex justify-center items-center text-center px-4">
 
@@ -45,20 +45,21 @@ export default function Hero() {
                     <a href='' className=' py-4 px-8 text-[14px] inline-flex items-center gap-2 border border-white/20 text-[#EFECE2] bg-[#09200D] rounded-full'>Find a home</a>
                 </div>
 
-                <div className="mt-2 flex justify-center items-center text-center px-4">
+                <div className="w-full bg-[#001f0a] py-6 px-4 overflow-hidden">
 
-                    <h1 className="text-[#EFECE2] font-extrabold tracking-tight leading-[1.07] text-5xl sm:text-6xl md:text-7xl lg:text-[30px]">
+                    <div className="max-w-6xl mx-auto flex flex-wrap items-center justify-center gap-4 md:gap-10 text-[#EAE7DC] text-sm md:text-2xl font-semibold tracking-tight text-center">
 
-                     <span>0%</span> Agent commission
+                        <span>0% Agent commission</span>
 
-                        
-                        <span className="text-[#C9F967]">₦0 Hidden charges</span>
+                        <span className="hidden md:block text-[#4A5C4F]">•</span>
 
-                        <br className="hidden md:block" />
+                        <span>₦0 Hidden charges</span>
 
-                        <span>No wahala.</span>
+                        <span className="hidden md:block text-[#4A5C4F]">•</span>
 
-                    </h1>
+                        <span>NGN + Crypto payment options</span>
+
+                    </div>
 
                 </div>
             </div>
