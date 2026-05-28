@@ -4,6 +4,7 @@ import Hero from "./Hero";
 import Problem from "./Problem";
 import Work from "./Work";
 import Landlords from "./Landlords";
+import Price from "./Price";
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
     <Problem/>
     <Work/>
     <Landlords/>
+    <Price/>
     </div>
   );
 }

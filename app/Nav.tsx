@@ -18,7 +18,7 @@ export default function Nav() {
     },
     {
       text: "Pricing",
-      link: "/",
+      link: "#Price",
     },
   ]
 

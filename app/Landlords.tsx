@@ -1,6 +1,6 @@
 export default function Landlords() {
     return (
-        <section id="Work" className="bg-[#142519] w-full min-h-screen">
+        <section id="Landlords" className="bg-[#142519] w-full min-h-screen">
             <div className="flex py-25 px-10 flex-col">
                 <div className="space-y-5">
                     <p className="text-[#C9F967] text-[13px] font-extrabold tracking-tight">Features</p>
@@ -46,7 +46,7 @@ export default function Landlords() {
                     </div>
                      <div className="border border-white/10 rounded-xl p-6 flex flex-col gap-3 bg-[#102314] transition-all duration-300 hover:border-white/30 hover:-translate-y-1">
 
-                        <button className=" border border-white/10 bg-[#102314] text-[12px] p-1 w-22 rounded-2xl text-center items-center text-[#B6B9AC] ">LEGAL</button>
+                        <button className=" border border-white/10 bg-[#102314] text-[12px] p-1 w-20 rounded-2xl text-center items-center text-[#B6B9AC] ">LEGAL</button>
                         <h1 className="text-[#EFECE2] font-extrabold tracking-tight text-[22px]">
                             Digital tenancy agreement
                         </h1>
