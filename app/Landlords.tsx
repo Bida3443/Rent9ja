@@ -46,32 +46,32 @@ export default function Landlords() {
                     </div>
                      <div className="border border-white/10 rounded-xl p-6 flex flex-col gap-3 bg-[#102314] transition-all duration-300 hover:border-white/30 hover:-translate-y-1">
 
-                        <button className=" border border-white/10 bg-[#102314] text-[12px] p-1 w-22 rounded-2xl text-center items-center text-[#B6B9AC] ">SECURITY</button>
+                        <button className=" border border-white/10 bg-[#102314] text-[12px] p-1 w-22 rounded-2xl text-center items-center text-[#B6B9AC] ">LEGAL</button>
                         <h1 className="text-[#EFECE2] font-extrabold tracking-tight text-[22px]">
-                            Escrow payments
+                            Digital tenancy agreement
                         </h1>
                         <p className="text-[#9B9F94] text-[14px] leading-6">
-                            Your money is safe with us until you've got the keys in hand.
+                            Legally-binding contracts signed online in under five minutes.
                         </p>
                     </div>
                      <div className="border border-white/10 rounded-xl p-6 flex flex-col gap-3 bg-[#102314] transition-all duration-300 hover:border-white/30 hover:-translate-y-1">
 
-                        <button className=" border border-white/10 bg-[#102314] text-[12px] p-1 w-22 rounded-2xl text-center items-center text-[#B6B9AC] ">SECURITY</button>
+                        <button className=" border border-white/10 bg-[#102314] text-[12px] p-1 w-22 rounded-2xl text-center items-center text-[#B6B9AC] ">PAYMENTS</button>
                         <h1 className="text-[#EFECE2] font-extrabold tracking-tight text-[22px]">
-                            Escrow payments
+                            Crypto-friendly
                         </h1>
                         <p className="text-[#9B9F94] text-[14px] leading-6">
-                            Your money is safe with us until you've got the keys in hand.
+                            Pay rent in USDT, USDC or BTC — instantly converted on-chain.
                         </p>
                     </div>
                      <div className="border border-white/10 rounded-xl p-6 flex flex-col gap-3 bg-[#102314] transition-all duration-300 hover:border-white/30 hover:-translate-y-1">
 
-                        <button className=" border border-white/10 bg-[#102314] text-[12px] p-1 w-22 rounded-2xl text-center items-center text-[#B6B9AC] ">SECURITY</button>
+                        <button className=" border border-white/10 bg-[#102314] text-[12px] p-1 w-22 rounded-2xl text-center items-center text-[#B6B9AC] ">SUPPORT</button>
                         <h1 className="text-[#EFECE2] font-extrabold tracking-tight text-[22px]">
-                            Escrow payments
+                            Dispute resolution
                         </h1>
                         <p className="text-[#9B9F94] text-[14px] leading-6">
-                            Your money is safe with us until you've got the keys in hand.
+                            Real humans on standby to mediate any issue, fast.
                         </p>
                     </div>
                     
