@@ -53,7 +53,7 @@ export default function Hero() {
                     <a href='' className=' py-4 px-8 text-[14px] inline-flex items-center gap-2 border border-white/20 text-[#EFECE2] bg-[#09200D] hover:bg-white/2 transition-all duration-300  rounded-full'>Find a home</a>
                 </div>
 
-                <div className="w-full mt-10 bg-[#001f0a] py-6 px-4 overflow-hidden">
+                <div className="w-full mt-10  py-6 px-4 overflow-hidden">
 
                     <div className="max-w-6xl mx-auto flex flex-wrap items-center justify-center gap-4 md:gap-10 text-[#9FA498] text-[12px] md:text-[14px] font-semibold tracking-tight text-center">
 

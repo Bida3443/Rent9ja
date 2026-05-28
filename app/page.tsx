@@ -3,6 +3,7 @@ import Nav from "./Nav";
 import Hero from "./Hero";
 import Problem from "./Problem";
 import Work from "./Work";
+import Landlords from "./Landlords";
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
     <Hero/>
     <Problem/>
     <Work/>
+    <Landlords/>
     </div>
   );
 }

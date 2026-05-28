@@ -14,7 +14,7 @@ export default function Nav() {
     },
     {
       text: "For Landlords",
-      link: "/",
+      link: "#Landlords",
     },
     {
       text: "Pricing",
