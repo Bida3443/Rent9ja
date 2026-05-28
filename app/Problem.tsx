@@ -21,7 +21,7 @@ export default function Problem() {
 
                         <Image
                             src={Agent}
-                            alt=""
+                            alt=""  
                             width={300}
                             height={300}
                             className="h-18 w-18 object-contain"

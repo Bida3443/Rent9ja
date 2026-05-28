@@ -10,7 +10,7 @@ export default function Nav() {
   const Nav = [
     {
       text: "How it works",
-      link: "Work",
+      link: "#Work",
     },
     {
       text: "For Landlords",
