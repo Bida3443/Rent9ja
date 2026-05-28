@@ -50,7 +50,7 @@ export default function Price() {
                             Verve, Visa, Mastercard — local or international.
                         </p>
                     </div>
-                    <div className="border border-white/10 rounded-xl p-6 flex flex-col gap-3 bg-transparent transition-all duration-300 hover:border-white/30 hover:-translate-y-1">
+                    <div className="border border-[#C9F967] rounded-xl p-6 flex flex-col gap-3 bg-transparent transition-all duration-300 hover:border-[#C9F967] hover:-translate-y-1">
 
                         <Image
                             src={Crypto}
@@ -65,6 +65,7 @@ export default function Price() {
                         <p className="text-[#9B9F94] text-[14px] leading-6">
                             USDT, USDC, BTC — auto-settled in NGN.
                         </p>
+                        <button className=" border border-white/10 bg-[#2B4320] text-[12px] p-1 w-22 rounded-2xl text-center items-center text-[#C9F967] ">POPULAR</button>
                     </div>
                     <div className="border border-white/10 rounded-xl p-6 flex flex-col gap-3 bg-transparent transition-all duration-300 hover:border-white/30 hover:-translate-y-1">
 
