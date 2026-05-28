@@ -11,7 +11,7 @@ export default function Work() {
                     
                 </div> */}
 
-                 <div className="gap-5 pt-15 text-white grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4">
+                 <div className="gap-5 pt-15 text-white grid grid-cols-1 border md:grid-cols-2 lg:grid-cols-4">
                     <div className="border border-white/10 rounded-xl hover:border-white/30 p-6 flex flex-col gap-3 bg-transparent transition-all duration-300 hover:-translate-y-1">
 
                         <h1>01</h1>

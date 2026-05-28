@@ -57,7 +57,7 @@ export default function Price() {
                             alt=""
                             width={300}
                             height={300}
-                            className="h-18 w-18 object-contain"
+                            className="h-14 w-18 object-contain"
                         />
                         <h1 className="text-[#EFECE2] font-extrabold tracking-tight text-[22px]">
                             Crypto
@@ -73,7 +73,7 @@ export default function Price() {
                             alt=""
                             width={300}
                             height={300}
-                            className="h-18 w-18 object-contain"
+                            className="h-14 w-18 object-contain"
                         />
                         <h1 className="text-[#EFECE2] font-extrabold tracking-tight text-[22px]">
                            USSD / Transfer
