@@ -9,16 +9,16 @@ export default function Nav() {
 
   const Nav = [
     {
-      text: "How it works",
-      link: "#Work",
+      text: "Privacy",
+      link: "#/",
     },
     {
-      text: "For Landlords",
-      link: "#Landlords",
+      text: "Terms",
+      link: "#/",
     },
     {
-      text: "Pricing",
-      link: "#Price",
+      text: "Contact",
+      link: "#/",
     },
   ]
 
@@ -83,19 +83,19 @@ export default function Nav() {
   return (
 
     <nav
-      className={`sticky top-0 z-20 py-6 px-10 bg-[#09200D] supports-backdrop-filter:bg-[#09200D]/95 backdrop-blur-md transition-all duration-300 ${showBorder
-          ? "border-b border-white/10"
-          : "border-b border-transparent"
-        }`}
-    >
+      className= " px-5 bg-[#020C04] items-center  transition-all duration-300">
 
-      <div className='flex justify-between items-center text-white'>
+      <div className='flex justify-between p-10 place-items-center items-center text-white'>
 
         <a href="/">
-          <h1 className='text-2xl font-extrabold tracking-tight'>
+          <h1 className='text-[20px] font-extrabold tracking-tight'>
             <span className='text-[#C9F967]'>Rent</span>9ja
           </h1>
         </a>
+
+        <p className='text-[#91938A]'>
+          Built in Lagos, for Nigeria.
+        </p>
 
         <div className='flex gap-5 text-[#B4B8AB]'>
 
@@ -103,7 +103,7 @@ export default function Nav() {
 
             <div
               key={index}
-              className='hover:text-white transition-all lg:block hidden duration-300'
+              className='hover:text-white transition-all duration-300'
             >
 
               <a href={item.link}>
@@ -115,13 +115,6 @@ export default function Nav() {
           ))}
 
         </div>
-
-        <a
-          href='#Contact'
-          className='bg-[#C9F967] py-2 px-4 text-[14px] rounded-full text-black transform transition-transform hover:-translate-y-0.5 duration-300 ease-in-out'
-        >
-          List your Property
-        </a>
 
       </div>
 

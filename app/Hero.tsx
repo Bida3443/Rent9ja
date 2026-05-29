@@ -40,9 +40,10 @@ export default function Hero() {
                 <div className="">
                     <p className="text-[#ABAFA2] lg:text-[20px] text-[18px] mt-5">Rent9ja connects landlords and tenants directly — zero agent <br /> fees, verified listings, and secure payments in Naira or crypto</p>
                 </div>
+                
                 <div className="flex lg:flex-row justify-center items-center flex-col pt-10 gap-5">
                     
-                        <a href='' className='bg-[#C9F967] flex gap-1 items-center py-4 px-6 text-[14px] rounded-full text-black transform transition-transform hover:-translate-y-0.5 duration-300 ease-in-out'>List your Property
+                        <a  className='bg-[#C9F967] flex gap-1 items-center py-4 px-6 text-[14px] rounded-full text-black transform transition-transform hover:-translate-y-0.5 duration-300 ease-in-out'>List your Property
                         <svg 
                         xmlns="http://www.w3.org/2000/svg" 
                         viewBox="0 0 640 640"

@@ -6,17 +6,19 @@ import Work from "./Work";
 import Landlords from "./Landlords";
 import Price from "./Price";
 import Contact from "./Contact";
+import Footer from "./Footer";
 
 export default function Home() {
   return (
     <div>
-    <Nav/>
-    <Hero/>
-    <Problem/>
-    <Work/>
-    <Landlords/>
-    <Price/>
-    <Contact/>
+        <Nav/>
+        <Hero/>
+        <Problem/>
+        <Work/>
+        <Landlords/>
+        <Price/>
+        <Contact/>
+        <Footer/>
     </div>
   );
 }
