@@ -52,7 +52,6 @@ export default function Contact() {
         className="w-full lg:w-auto bg-[#09200D] flex justify-center items-center gap-2 py-4 px-6 rounded-full text-white transition-all duration-300 hover:-translate-y-0.5"
       >
         Join the waitlist
-
         <svg
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 640 640"
