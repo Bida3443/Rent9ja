@@ -1,10 +1,10 @@
 export default function Landlords() {
     return (
         <section id="Landlords" className="bg-[#142519] w-full min-h-screen">
-            <div className="flex py-25 px-10 flex-col">
+            <div className="flex py-25 lg:px-10 px-5 flex-col">
                 <div className="space-y-5">
-                    <p className="text-[#C9F967] text-[13px] font-extrabold tracking-tight">Features</p>
-                    <h1 className="text-[#EFECE2] font-extrabold tracking-tight leading-[1.07] text-4xl sm:text-6xl md:text-7xl lg:text-[60px]">Everything you need. <br /> Nothing you don't.</h1>
+                    <p className="text-[#C9F967] text-[13px] font-extrabold tracking-tight">FEATURES</p>
+                    <h1 className="text-[#EFECE2] font-extrabold tracking-tight leading-[1.07] text-3xl sm:text-6xl md:text-7xl lg:text-[60px]">Everything you need. <br /> Nothing you don't.</h1>
                 </div>
                 {/* <div className="text-white flex flex-row justify-center items-center p-40 mt-5 rounded-2xl border border-amber-50">
                     
