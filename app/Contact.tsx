@@ -25,13 +25,13 @@ export default function Contact() {
               </div>
            </div> */}
 
-        <div className="bg-[#C9F967] rounded-4xl px-6 py-12 md:px-10 md:py-14">
+        <div className="bg-[#C9F967] rounded-4xl lg:px-6 px-3 py-12 md:px-10 md:py-14">
 
   <div className="flex flex-col lg:flex-row items-start lg:items-center justify-between gap-10">
 
     {/* LEFT: TEXT */}
     <div className="w-full lg:w-1/2">
-      <h1 className="text-[#09200D] font-extrabold tracking-tight leading-[0.95] text-4xl sm:text-5xl md:text-6xl lg:text-[60px]">
+      <h1 className="text-[#09200D] font-extrabold tracking-tight leading-[0.95] text-3xl sm:text-5xl md:text-6xl lg:text-[60px]">
   Stop paying agents.
   <br />
   Start living better.
