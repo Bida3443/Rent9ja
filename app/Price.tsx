@@ -10,10 +10,10 @@ export default function Price() {
 
     return (
         <section id="Price" className="bg-[#09200D] w-full min-h-screen">
-            <div className="flex py-25 px-10 flex-col">
+            <div className="flex py-25 lg:px-10 px-5 flex-col">
                 <div className="space-y-5">
                     <p className="text-[#C9F967] text-[13px] font-extrabold tracking-tight">PAYMENTS</p>
-                    <h1 className="text-[#EFECE2] font-extrabold tracking-tight leading-[1.07] text-4xl sm:text-6xl md:text-7xl lg:text-[60px]">Pay your way.</h1>
+                    <h1 className="text-[#EFECE2] font-extrabold tracking-tight leading-[1.07] text-3xl sm:text-6xl md:text-7xl lg:text-[60px]">Pay your way.</h1>
                     <p className="  text-[18px] text-[#B6B9AC] ">Local rails, global options. We take whatever works for you.</p>
                 </div>
 
