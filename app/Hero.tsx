@@ -22,7 +22,7 @@ export default function Hero() {
 
                 <div className="mt-8 flex justify-center items-center text-center px-4">
 
-                    <h1 className="text-[#EFECE2] font-extrabold tracking-tight leading-[1.07] text-3xl sm:text-6xl md:text-7xl lg:text-[88px]">
+                    <h1 className="text-[#EFECE2] font-extrabold tracking-tight leading-[1.07] text-[70px] sm:text-6xl md:text-7xl lg:text-[88px]">
 
                         Rent a home.
 
