@@ -26,11 +26,11 @@ export default function Hero() {
 
                         Rent a home.
 
-                        <br className="hidden md:block" />
+                        <br className=" md:block" />
 
                         <span className="text-[#C9F967]">No agents.</span>
 
-                        <br className="hidden md:block" />
+                        <br className=" md:block" />
 
                         <span>No wahala.</span>
 
