@@ -1,7 +1,7 @@
 export default function Contact() {
     return (
         <section id="Contact" className="bg-[#09200D] scroll-mt-28 w-full ">
-          <div className="px-10 pb-30">
+          <div className="lg:px-10 px-5 pb-30">
              {/* <div className="flex lg:flex-row flex-col items-center gap-15  bg-[#C9F967] p-0 py-20 px-10 rounded-3xl ">
                 <div>
                         <h1 className="font-extrabold tracking-tight leading-[1.07] text-4xl sm:text-6xl md:text-7xl lg:text-[60px]">Stop paying <br /> agents. <br /> Start living better.</h1>
@@ -25,7 +25,7 @@ export default function Contact() {
               </div>
            </div> */}
 
-        <div className="bg-[#C9F967] rounded-4xl lg:px-6 px-3 py-12 md:px-10 md:py-14">
+        <div className="bg-[#C9F967] rounded-4xl px-6 py-12 md:px-10 md:py-14">
 
   <div className="flex flex-col lg:flex-row items-start lg:items-center justify-between gap-10">
 
