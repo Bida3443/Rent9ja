@@ -22,7 +22,7 @@ export default function Hero() {
 
                 <div className="mt-8 flex justify-center items-center text-center px-4">
 
-                    <h1 className="text-[#EFECE2] font-extrabold tracking-tight leading-[1.07] text-[70px] sm:text-6xl md:text-7xl lg:text-[88px]">
+                    <h1 className="text-[#EFECE2] font-extrabold tracking-tight leading-[1.07] text-[60px] sm:text-6xl md:text-7xl lg:text-[88px]">
 
                         Rent a home.
 
@@ -38,7 +38,7 @@ export default function Hero() {
 
                 </div>
                 <div className="">
-                    <p className="text-[#ABAFA2] text-center lg:text-[20px] text-[10px] mt-5">Rent9ja connects landlords and tenants directly — zero agent <br /> fees, verified listings, and secure payments in Naira or crypto</p>
+                    <p className="text-[#ABAFA2] text-center lg:text-[20px] text-[13px] mt-5">Rent9ja connects landlords and tenants directly — zero agent <br /> fees, verified listings, and secure payments in Naira or crypto</p>
                 </div>
                 
                 <div className="flex lg:flex-row justify-center items-center flex-col pt-10 gap-5">
