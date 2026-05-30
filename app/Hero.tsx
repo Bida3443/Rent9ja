@@ -38,7 +38,7 @@ export default function Hero() {
 
                 </div>
                 <div className="">
-                    <p className="text-[#ABAFA2] text-center lg:text-[20px] text-[15px] mt-5">Rent9ja connects landlords and tenants directly — zero agent <br /> fees, verified listings, and secure payments in Naira or crypto</p>
+                    <p className="text-[#ABAFA2] text-center lg:text-[20px] text-[10px] mt-5">Rent9ja connects landlords and tenants directly — zero agent <br /> fees, verified listings, and secure payments in Naira or crypto</p>
                 </div>
                 
                 <div className="flex lg:flex-row justify-center items-center flex-col pt-10 gap-5">

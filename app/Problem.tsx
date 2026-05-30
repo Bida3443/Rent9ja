@@ -13,7 +13,7 @@ export default function Problem() {
             <div className="flex py-25 px-10 flex-col">
                 <div className="space-y-5">
                     <p className="text-[#C9F967] text-[13px] font-extrabold tracking-tight">THE PROBLEM</p>
-                    <h1 className="text-[#EFECE2] font-extrabold tracking-tight leading-[1.07] text-4xl sm:text-6xl md:text-7xl lg:text-[60px]">Agents are taking too <br /> much from Nigerians.</h1>
+                    <h1 className="text-[#EFECE2] font-extrabold tracking-tight leading-[1.07] text-3xl sm:text-6xl md:text-7xl lg:text-[60px]">Agents are taking too <br /> much from Nigerians.</h1>
                 </div>
 
                 <div className="gap-5 pt-15 text-white grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4">
